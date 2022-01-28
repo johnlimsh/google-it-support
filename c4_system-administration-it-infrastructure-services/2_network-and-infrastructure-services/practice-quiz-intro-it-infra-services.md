@@ -22,7 +22,7 @@ Which of these is considered a network service? Check all that apply.
 * **Wireless Internet**
 * **DNS**
 * Blade server
-* Ethernet cables
+* **Ethernet cables**
 
 > Network services are comprised of networking components that an organization uses in their IT environment, like network protocols, network hardware, etc.
 
