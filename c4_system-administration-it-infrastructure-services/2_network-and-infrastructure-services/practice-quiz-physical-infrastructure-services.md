@@ -33,7 +33,7 @@ Which of the following do you need in order to SSH to a machine? Check all that 
 
 * **An SSH client on the machine you want to connect from**
 * A VPN connection
-* An SSH server on the machine you want to connect to
+* **An SSH server on the machine you want to connect to**
 * A virtual server to connect to
 
 > To make an SSH connection from one machine to another, you need to have an SSH client on the machine you want to connect from, along with an SSH server on the machine you want to connect to.
